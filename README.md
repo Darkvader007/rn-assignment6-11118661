@@ -1,6 +1,6 @@
 # rn-assignment6-11118661
 
-## Fashion App
+## Gabe App
 
 
 
@@ -16,6 +16,6 @@ This is a simple React Native fashion application that allows users to view a li
 
 ## Screenshots
 
-![HomeScreen](MyApp/images/SimulatorScreenshot-iPhone15ProMax-2024-07-03at22.56.00.png)
+![HomeScreen](MyApp/images/SimulatorScreenshot2.png)
 
-![CheckoutScreen](MyApp/images/SimulatorScreenshot-iPhone15ProMax-2024-07-03at22.56.27.png)
+![CheckoutScreen](MyApp/images/SimulatorScreenshot1.png)
