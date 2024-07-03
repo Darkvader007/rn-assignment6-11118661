@@ -16,6 +16,6 @@ This is a simple React Native fashion application that allows users to view a li
 
 ## Screenshots
 
-![HomeScreen](MyApp/images/SimulatorScreenshot2.png)
+![HomeScreen](https://github.com/Darkvader007/rn-assignment6-11118661/blob/main/MyApp/images/Simulator%20Screenshot2.png)
 
-![CheckoutScreen](MyApp/images/SimulatorScreenshot1.png)
+![CheckoutScreen](https://github.com/Darkvader007/rn-assignment6-11118661/blob/main/MyApp/images/Simulator%20Screenshot1.png)
